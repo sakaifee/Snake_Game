@@ -4,7 +4,7 @@
 }
 
 .body{
-    background: url("../wallpaper.jpg");
+    background: url("../images/wallpaper.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
