@@ -23,10 +23,13 @@
     grid-template-rows: repeat(18, 1fr);
 }
 
+.snake{ 
+    background-color: purple;
+}
 .snake_head{
     background-color: red;
 }
 
 .snake_food{
-    background-color: orchid;
+    background-color: yellow;
 }
